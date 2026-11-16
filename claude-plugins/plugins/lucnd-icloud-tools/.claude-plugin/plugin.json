@@ -1,0 +1,6 @@
+{
+  "name": "lucnd-icloud-tools",
+  "version": "1.0.0",
+  "description": "Bộ skill dùng chung cho các thư viện .NET lucnd-icloud (cập nhật CHANGELOG, README, spec khi có phiên bản mới).",
+  "author": { "name": "lucnd" }
+}

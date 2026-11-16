@@ -1,0 +1,11 @@
+{
+  "name": "claude-plugins",
+  "owner": { "name": "lucnd" },
+  "plugins": [
+    {
+      "name": "lucnd-icloud-tools",
+      "source": "./plugins/lucnd-icloud-tools",
+      "description": "Skill cập nhật CHANGELOG/README/spec cho thư viện .NET lucnd-icloud"
+    }
+  ]
+}
